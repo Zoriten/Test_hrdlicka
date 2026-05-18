@@ -1,0 +1,82 @@
+Statistické vyhodnocení pro soubor: 223344
+--------------------------------------------------
+Celkový počet záznamů (řádků): 23
+Celkový počet sloupců: 14
+
+--- Sloupec: Evidence ---
+Počet unikátních dat: 1
+Počet prázdných záznamů: 0
+Sloupec není numerického typu (statistika min/max/průměr vynechána).
+
+--- Sloupec: Parcela ---
+Počet unikátních dat: 23
+Počet prázdných záznamů: 0
+Sloupec není numerického typu (statistika min/max/průměr vynechána).
+
+--- Sloupec: kú ---
+Počet unikátních dat: 1
+Počet prázdných záznamů: 0
+Sloupec není numerického typu (statistika min/max/průměr vynechána).
+
+--- Sloupec: LV ---
+Počet unikátních dat: 7
+Počet prázdných záznamů: 1
+Průměrná hodnota: 3292.45
+Minimální hodnota: 1.0
+Maximální hodnota: 15856.0
+
+--- Sloupec: Díl ---
+Počet unikátních dat: 0
+Počet prázdných záznamů: 23
+Sloupec je zcela prázdný (statistické hodnoty nelze spočítat).
+
+--- Sloupec: Původní katastr ---
+Počet unikátních dat: 0
+Počet prázdných záznamů: 23
+Sloupec je zcela prázdný (statistické hodnoty nelze spočítat).
+
+--- Sloupec: Výsledek ---
+Počet unikátních dat: 3
+Počet prázdných záznamů: 0
+Sloupec není numerického typu (statistika min/max/průměr vynechána).
+
+--- Sloupec: VFK GP ---
+Počet unikátních dat: 1
+Počet prázdných záznamů: 0
+Sloupec není numerického typu (statistika min/max/průměr vynechána).
+
+--- Sloupec: RUIAN ---
+Počet unikátních dat: 1
+Počet prázdných záznamů: 0
+Sloupec není numerického typu (statistika min/max/průměr vynechána).
+
+--- Sloupec: TAB ---
+Počet unikátních dat: 1
+Počet prázdných záznamů: 2
+Sloupec není numerického typu (statistika min/max/průměr vynechána).
+
+--- Sloupec: VFK SPI ---
+Počet unikátních dat: 1
+Počet prázdných záznamů: 1
+Sloupec není numerického typu (statistika min/max/průměr vynechána).
+
+--- Sloupec: Plocha VB (VFK GP) ---
+Počet unikátních dat: 22
+Počet prázdných záznamů: 0
+Průměrná hodnota: 116.10
+Minimální hodnota: 0.01
+Maximální hodnota: 1846.03
+
+--- Sloupec: Plocha VB (TAB) ---
+Počet unikátních dat: 20
+Počet prázdných záznamů: 2
+Průměrná hodnota: 127.14
+Minimální hodnota: 1.2
+Maximální hodnota: 1846.1
+
+--- Sloupec: Délka ---
+Počet unikátních dat: 21
+Počet prázdných záznamů: 2
+Průměrná hodnota: 129.19
+Minimální hodnota: 1.5
+Maximální hodnota: 1900.4
